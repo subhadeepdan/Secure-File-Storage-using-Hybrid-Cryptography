@@ -1,7 +1,7 @@
 <table cellpadding="0" cellspacing="0" width="100%">
     <tr>
         <td  valign="middle" align="left">
-            <h1>Secure Cloud Simulation</h1>           
+            <h1>Secure File Storage using Hybrid Cryptography</h1>           
         </td>  
         <td valign="bottom" align="right" style="padding-right: 10px;">            
         </td>
