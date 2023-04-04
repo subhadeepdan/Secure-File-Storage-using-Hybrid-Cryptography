@@ -1,6 +1,6 @@
 # Secure File Storage using Hybrid Cryptography
 
-NOTE :  I don't maintain this project anymore, I developed this as a college final year project in 2020. I don't work on this technology anymore. If anyone is getting any errors, please don't message me, unfortunately you'll have to figure it out on your own. 
+## NOTE :  I don't maintain this project anymore, I developed this as a college final year project in 2020. I don't work on this technology anymore. If anyone is getting any errors, please don't message me, unfortunately you'll have to figure it out on your own. 
 
 The primary goal of this project is to provide and simulate an effective solution to face the challenges and solve security issues that exists in cloud computing.
 Cloud Computing is the impending need of computing which is used for the IT Industries It is one of the hottest topic in research areas. Scalability and Flexibility increases for the computing services. Cloud Computing is the fastest growing technology for IT Industry. The Information is being transmitted via the network therefore security is one of the main problems or issue. The Application is deployed on the Cloud and for the secure transmission of the data we will be using ECC Algorithm in our project because of its advantages in terms of CPU utilization, time for Encryption and Key Size. This Project will explore the deployment of Application on the Cloud and increases the security level by implementing ECC & ECDH Algorithm, and AES Algorithm for secure file handling and Encryption.
